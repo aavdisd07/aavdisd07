@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Avantika Deshmukh</h1>
 <h3 align="center">A passionate frontend developer and Programmer from India</h3>
 
-<img  class="wdn-stretch rounded-corners" align="right" width="380" src="https://storage.googleapis.com/pai-images/69658b6790d9419b8a1f3cc2c1a3d446.jpeg" alt="coding">
+<img  class="wdn-stretch rounded-corners" align="right" width="380" src="https://storage.googleapis.com/pai-images/69658b6790d9419b8a1f3cc2c1a3d446.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4Ih4kT8hG0c_usMtiSF35SZK2cEaszjBmg&s" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavdisd07&label=Profile%20views&color=0e75b6&style=flat" alt="aavdisd07"/> </p>
 <hr>
